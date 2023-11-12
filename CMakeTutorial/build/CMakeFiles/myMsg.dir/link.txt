@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmyMsg.a CMakeFiles/myMsg.dir/Message.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmyMsg.a

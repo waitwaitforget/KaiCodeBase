@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblist.a CMakeFiles/list.dir/add_two_numbers.cc.o CMakeFiles/list.dir/reverse_linked_list.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblist.a

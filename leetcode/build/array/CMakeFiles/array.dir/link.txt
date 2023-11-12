@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libarray.a CMakeFiles/array.dir/arry.cc.o CMakeFiles/array.dir/lc307_segment_tree.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libarray.a

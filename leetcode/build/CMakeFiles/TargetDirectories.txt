@@ -1,0 +1,15 @@
+/Users/kai/Documents/learn/cpp/leetcode/build/CMakeFiles/LeetCode.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/CMakeFiles/rebuild_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/array/CMakeFiles/array.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/array/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/array/CMakeFiles/rebuild_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/tree/CMakeFiles/tree.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/tree/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/tree/CMakeFiles/rebuild_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/list/CMakeFiles/list.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/list/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/list/CMakeFiles/rebuild_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/geometry/CMakeFiles/geometry.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/geometry/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/leetcode/build/geometry/CMakeFiles/rebuild_cache.dir

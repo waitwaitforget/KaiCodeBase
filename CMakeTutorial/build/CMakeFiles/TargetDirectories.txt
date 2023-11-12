@@ -1,0 +1,4 @@
+/Users/kai/Documents/learn/cpp/CMakeTutorial/build/CMakeFiles/myMsg.dir
+/Users/kai/Documents/learn/cpp/CMakeTutorial/build/CMakeFiles/Tutorial.dir
+/Users/kai/Documents/learn/cpp/CMakeTutorial/build/CMakeFiles/edit_cache.dir
+/Users/kai/Documents/learn/cpp/CMakeTutorial/build/CMakeFiles/rebuild_cache.dir
